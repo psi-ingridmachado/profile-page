@@ -38,7 +38,7 @@ const ProfilePage = () => {
 
                 <h1 className="text-4xl font-bold mb-2 text-white tracking-wide w-72">Ingrid Machado Alves Da Silva</h1>
                 <p className="text-lg text-gray-400">Psicógola</p>
-                <p className="text-l text-gray-400">CRP 06/178937</p>
+                <p className="text-l text-gray-400">CRP 06/168937</p>
             </div>
 
                 <div className="mt-8">
